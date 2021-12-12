@@ -1,2 +1,3 @@
+pip install types-setuptools
 types-Pillow
 pillow

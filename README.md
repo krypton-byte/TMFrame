@@ -39,4 +39,4 @@ $ python3 -m TMFrame --image=example/maxresdefault.jpg --title="It Ain't Me" --a
 <img src="example/result.jpg">
 </details>
 
-Thanks to <a href="https://github.com/plucyvrz"> putra</a> for making the frame
+Thanks to <a href="https://github.com/plucyvrz">plucyvrz</a> for making the frame
