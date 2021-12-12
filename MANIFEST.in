@@ -1,3 +1,4 @@
-include MFrame/*
-include MFrame/font/*
+include TMFrame/*
+include TMFrame/font/*
 include example/*
+recursive-include TMFrame
