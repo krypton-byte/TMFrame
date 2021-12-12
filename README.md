@@ -31,12 +31,12 @@ $ python3 -m TMFrame --image=example/maxresdefault.jpg --title="It Ain't Me" --a
 <details>
 <summary>BEFORE</summary>
 <br>
-<img src="example/maxresdefault.jpg">
+<img src="https://raw.githubusercontent.com/krypton-byte/TMFrame/master/example/maxresdefault.jpg">
 </details>
 <details>
 <summary>AFTER</summary>
 <br>
-<img src="example/result.jpg">
+<img src="https://raw.githubusercontent.com/krypton-byte/TMFrame/master/example/result.jpg">
 </details>
 
 Thanks to <a href="https://github.com/plucyvrz">plucyvrz</a> for making the frame
