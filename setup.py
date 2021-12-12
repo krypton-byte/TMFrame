@@ -9,7 +9,7 @@ setup(
     packages=['TMFrame'],
     include_package_data=True,
     long_description=long_description,
-    long_description_content_type = 'text/markdown',
+    long_description_content_type='text/markdown',
     version='0.1',
     license='MIT',
     description='Music Thumbnail Maker',
